@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Aplicacion de películas creada con React JS.
 
 Proyecto elaborado con los vídeotutoriales del canal de @YoelvisM.
 Fuente: https://youtube.com/playlist?list=PL9T-KKyKXNClsgm8o1mKQH7Wc2fNqUOOF
